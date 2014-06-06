@@ -1,9 +1,9 @@
 body {
+    font-family: Helvetica, Arial, san-serif; font-size: 16px; 
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Merriweather', Georgia, Times; font-size: 16px; 
     padding: 0px;
     list-style: none;
     font-weight: bold;
